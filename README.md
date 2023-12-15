@@ -1,4 +1,7 @@
-### Hi there 👋
+### Maxine McDonald Armstrong (she/her)
+
+I'm a Computing Science student at the University of Glasgow, with a special interest in theoretical computing and software engineering.
+
 
 <!--
 **JazzyMaxine/JazzyMaxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
