@@ -1,4 +1,3 @@
-### ✨ Maxine McDonald Armstrong ✨ (she/her)
+## Maxine McDonald Armstrong
 
- 🐛 I'm a Computing Science student at the University of Glasgow, with a special interest in theoretical computing and software engineering.  
- 🐛 I'm always looking for interesting projects to collaborate on!  
+I am a third year student of computing science and backend developer. Passionate about systems and competitive programming.
