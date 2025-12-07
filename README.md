@@ -1,6 +1,6 @@
 ## Maxine McDonald Armstrong
 
-I am a third year student of computing science with internship and project experience in backend development. Passionate about systems and competitive programming.
+I am a fourth year student of computing science with internship and project experience in backend development. Passionate about systems and competitive programming.
 
 ### Get In Touch
 
